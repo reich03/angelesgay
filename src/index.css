@@ -1,0 +1,15 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+#header a{
+    transition: color 0.3s ease;
+    text-decoration: none;
+    color: #F8F9FA;
+    font-size: 1.3rem;
+}
+
+#header a:hover{
+    color: #6495ed;
+
+}
